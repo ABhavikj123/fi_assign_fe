@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/openapi.json",
+      "destination": "$VITE_API_BASE_URL/openapi.json"
+    }
+  ]
+}
