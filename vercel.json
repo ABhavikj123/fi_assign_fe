@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/openapi.json",
-      "destination": "$VITE_API_BASE_URL/openapi.json"
+      "destination": "https://fi-assign-be.onrender.com/openapi.json"
     }
   ]
 }
