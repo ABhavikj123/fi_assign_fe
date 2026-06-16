@@ -2,31 +2,31 @@
   "rewrites": [
     {
       "source": "/register",
-      "destination": "https://fi-assign-be.onrender.com/register"
+      "destination": "https://fi-assign-be-bqoo.onrender.com/register"
     },
     {
       "source": "/login",
-      "destination": "https://fi-assign-be.onrender.com/login"
+      "destination": "https://fi-assign-be-bqoo.onrender.com/login"
     },
     {
       "source": "/notes",
-      "destination": "https://fi-assign-be.onrender.com/notes"
+      "destination": "https://fi-assign-be-bqoo.onrender.com/notes"
     },
     {
       "source": "/notes/:path*",
-      "destination": "https://fi-assign-be.onrender.com/notes/:path*"
+      "destination": "https://fi-assign-be-bqoo.onrender.com/notes/:path*"
     },
     {
       "source": "/search",
-      "destination": "https://fi-assign-be.onrender.com/search"
+      "destination": "https://fi-assign-be-bqoo.onrender.com/search"
     },
     {
       "source": "/about",
-      "destination": "https://fi-assign-be.onrender.com/about"
+      "destination": "https://fi-assign-be-bqoo.onrender.com/about"
     },
     {
       "source": "/openapi.json",
-      "destination": "https://fi-assign-be.onrender.com/openapi.json"
+      "destination": "https://fi-assign-be-bqoo.onrender.com/openapi.json"
     }
   ]
 }
